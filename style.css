@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #d9e7ee;
+    font-size: 36px;
+}
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    height: 100vh;
+}
+
+b {
+    background-color: #000000;
+    color: white;
+}
+
+div > span {
+    background-color: #e1ff00;
+}
+
+#text-id {
+    background-color: #ff0077;
+    color: white;
+}
+
+.text-class {
+    background-color: #00ff0d;
+}
+a[href*=".com"] {
+    background-color: #ff00d4;
+}
+
+#text-id + .text-neighbour {
+    background-color: #fd0000;
+}
+
+div.wrapper p {
+    background-color: #ffa200;
+}
+ span ~ #italic-id {
+    background-color: #7bffe5;
+ }
+ div.wrapper > b.text-blue {
+    display: block;
+    background-color: #000dff;
+ }
+
+ span#text-id ~ h4.little-title {
+    background-color: #ff7b7b;
+ }
