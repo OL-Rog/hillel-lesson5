@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate student oj course "fullstack JS"</h3>
+<h3 align="center">A passionate student of course "fullstack JS"</h3>
 
 <h3 align="left">Connect with me: (future link)</h3>
 <p align="left">
